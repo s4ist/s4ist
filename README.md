@@ -17,6 +17,19 @@ With a solid and deep foundation in frontend frameworks, I am currently expandin
 
 ### 🛠️ Tech Stack & Skills | التقنيات والمهارات
 
-<!-- يمكنك إضافة التقنيات التي تتقنها هنا على شكل شارات أو نقاط -->
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub
+| 💻 Frontend Frameworks (Core Expertise) | 🌐 Full-Stack & Modern Web (Current Focus) |
+| :--- | :--- |
+| • **Architecture:** Component-Based, Clean Code | • **Frameworks:** Next.js, Node.js Ecosystem |
+| • **State Management:** Redux Toolkit, Context API | • **Languages:** JavaScript / TypeScript |
+| • **Expertise:** Performance Optimization, Complex UI/UX | • **Concepts:** Server-Side Rendering (SSR), RESTful APIs |
+
+**Other Tools & Workflow:** `Git & GitHub` | `VS Code` | `Postman` | `Google Cloud Console` | `Notion`
+
+---
+
+### 📈 What I'm Up To Right Now | ما أعمل عليه حالياً
+
+* 🛠️ **Working on:** Advanced web solutions and mentoring frontend/web teams.
+* 🚀 **Learning & Exploring:** Deep diving into Full-Stack development and scalable backend architecture.
+* 💬 **Ask me about:** Frontend architecture, modern web ecosystems, or shifting concepts to full-stack.
+
