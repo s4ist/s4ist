@@ -1,4 +1,4 @@
-#  Hi there iam Said-Mohamad
+#  Hi there, I'm Said Mohamad 👋
 <br><br>
 🚀 About Me
 I am a passionate Web Developer and Technical Team Leader dedicated to crafting high-performance, scalable, and beautifully designed web experiences.
